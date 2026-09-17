@@ -26,35 +26,37 @@ I enjoy building software, learning new technologies, and solving technical prob
 
 ## 🛠️ Technologies & Tools
 
-### 🎮 Game Development
-
-* Unity
-* C#
-* Unity Input System
-* Netcode for GameObjects
-* Multiplayer & Networking
-* Gameplay Programming
-* Character Movement & Physics
-* Level Design
-
 ### 💻 Backend & Software Development
 
-* Java / Spring Boot
-* Python / FastAPI
-* REST APIs
-* SQL / MySQL
-* MongoDB
-* Git / GitHub
-* Clean Architecture
-* Object-Oriented Programming
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4B5563?style=for-the-badge)](#)
+[![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-6B7280?style=for-the-badge)](#)
 
 ### 🌐 Frontend
 
-* JavaScript
-* React
-* Angular
-* HTML
-* CSS
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🎮 Game Development
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Unity Input System](https://img.shields.io/badge/Unity%20Input%20System-000000?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity3d.com/Packages/com.unity.inputsystem@latest/)
+[![Netcode for GameObjects](https://img.shields.io/badge/Netcode%20for%20GameObjects-000000?style=for-the-badge&logo=unity&logoColor=white)](https://docs-multiplayer.unity3d.com/)
+[![Multiplayer & Networking](https://img.shields.io/badge/Multiplayer%20%26%20Networking-5865F2?style=for-the-badge)](#)
+[![Gameplay Programming](https://img.shields.io/badge/Gameplay%20Programming-8B5CF6?style=for-the-badge)](#)
+[![Level Design](https://img.shields.io/badge/Level%20Design-F59E0B?style=for-the-badge)](#)
 
 ---
 
