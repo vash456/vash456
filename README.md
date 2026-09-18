@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Software Developer | Junior Unity Developer
 
-Software Developer with professional experience in **backend and full-stack development**, currently focused on **game development with Unity and C#**.
+**Software Developer** with professional experience in backend and full-stack development, currently expanding my skills in both **software development** and **game development with Unity and C#**.
 
 I enjoy building software, learning new technologies, and solving technical problems through **clean, maintainable, and scalable code**.
 
@@ -62,7 +62,7 @@ I enjoy building software, learning new technologies, and solving technical prob
 
 ## 🚀 Featured Projects
 
-### 🎮 Splime
+### [🎮 Splime](https://github.com/MonJrz/Splime)
 
 **2-player cooperative Unity game**
 
@@ -77,7 +77,7 @@ A cooperative game developed with **Unity and C#**, focused on multiplayer gamep
 
 ---
 
-### 🏦 AstroBank
+### [🏦 AstroBank](https://github.com/vash456/AstroBank_backend)
 
 **Backend application developed with Java and Spring Boot**
 
@@ -93,7 +93,7 @@ A backend project focused on applying **Clean Architecture and object-oriented p
 
 ---
 
-### 📱 DG Live Sports
+### [📱 DG Live Sports](https://github.com/vash456/DG-livesports-v4)
 
 **Android application for sports information**
 
